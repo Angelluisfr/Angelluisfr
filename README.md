@@ -1,53 +1,103 @@
-# Luis Fernando Angel Ramirez
+# Hi 👋 I'm Luis Fernando Angel Ramirez
 
-Backend developer with a background in IT infrastructure and operations.
-I build REST APIs, automation tools, and monitoring systems.
-Based in Bogotá, Colombia.
+Full Stack Developer focused on building scalable web applications with **Python, FastAPI, Django and React**.
+
+I enjoy designing REST APIs, automating business processes, integrating cloud services and building software that solves real operational challenges.
+
+My background in infrastructure allows me to develop applications with scalability, security, deployment and observability in mind.
+
+📍 Bogotá, Colombia
 
 ---
 
-## Stack
+## 🛠 Tech Stack
 
-**Backend**
+### Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat)
+
+### Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-**DevOps & Tools**
+### Cloud & DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-**Currently learning**
+### Security
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-4285F4?style=flat)
+![RBAC](https://img.shields.io/badge/RBAC-0052CC?style=flat)
+![API Keys](https://img.shields.io/badge/API_Keys-FF9800?style=flat)
+---
+
+## 🚀 Featured Projects
+
+### 🎫 TicketFlow API
+
+Enterprise-ready REST API for IT ticket management built with **FastAPI**, **PostgreSQL**, **JWT** and **Docker**.
+
+**Features**
+
+- JWT Authentication
+- Role Based Access Control (RBAC)
+- CRUD Operations
+- Swagger/OpenAPI Documentation
+- Docker Compose
 
 ---
 
-## Projects
+### 📊 ITOps Dashboard
 
-**[ticketflow-api](https://github.com/Angelluisfr/ticketflow-api)**
-IT ticket management REST API. FastAPI + PostgreSQL + JWT auth + role-based access + Docker Compose.
+Administrative dashboard for infrastructure monitoring with real-time metrics.
 
-**[itops-dashboard](https://github.com/Angelluisfr/itops-dashboard)**
-Real-time infrastructure monitoring dashboard. Flask + psutil + Chart.js. Auto-refresh every 5s.
+**Tech**
 
-**[sysops-toolkit](https://github.com/Angelluisfr/sysops-toolkit)**
-IT automation CLI. Network scanner, log analyzer, system health report, disk usage analysis.
+Flask • Chart.js • Docker
 
----
+**Features**
 
-## Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Angelluisfr&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelluisfr&layout=compact&theme=github_dark&hide_border=true)
+- Infrastructure monitoring
+- Real-time dashboards
+- Process visualization
+- Auto refresh
 
 ---
 
-📍 Bogotá, Colombia &nbsp;·&nbsp; angelluisfernando9@gmail.com
+### 🛠 SysOps Toolkit
+
+Python CLI designed to automate common infrastructure and IT operations.
+
+**Features**
+
+- Network Scanner
+- Log Analyzer
+- Disk Usage Analysis
+- Health Reports
+- Automation Utilities
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis%20Angel-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luisfer-angel/)
+
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelluisfernando9@gmail.com)
+
