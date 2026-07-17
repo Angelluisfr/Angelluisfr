@@ -10,7 +10,7 @@ My background in infrastructure allows me to develop applications with scalabili
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Backend
 
@@ -48,9 +48,9 @@ My background in infrastructure allows me to develop applications with scalabili
 ![API Keys](https://img.shields.io/badge/API_Keys-FF9800?style=flat)
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🎫 TicketFlow API
+### TicketFlow API
 
 Enterprise-ready REST API for IT ticket management built with **FastAPI**, **PostgreSQL**, **JWT** and **Docker**.
 
@@ -64,7 +64,7 @@ Enterprise-ready REST API for IT ticket management built with **FastAPI**, **Pos
 
 ---
 
-### 📊 ITOps Dashboard
+### ITOps Dashboard
 
 Administrative dashboard for infrastructure monitoring with real-time metrics.
 
@@ -81,7 +81,7 @@ Flask • Chart.js • Docker
 
 ---
 
-### 🛠 SysOps Toolkit
+### SysOps Toolkit
 
 Python CLI designed to automate common infrastructure and IT operations.
 
