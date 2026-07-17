@@ -95,6 +95,16 @@ Python CLI designed to automate common infrastructure and IT operations.
 
 ---
 
+## Current Focus
+
+- Building scalable backend services
+- Designing REST APIs
+- Process automation with Python
+- Full Stack development with React + FastAPI
+- Cloud deployments using Docker & AWS
+
+---
+
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis%20Angel-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luisfer-angel/)
