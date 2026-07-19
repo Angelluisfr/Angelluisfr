@@ -50,6 +50,28 @@ My background in infrastructure allows me to develop applications with scalabili
 
 ## Featured Projects
 
+### OpsPilot
+
+Enterprise infrastructure operations platform focused on monitoring, automation and infrastructure management. Built with FastAPI, PostgreSQL, Docker and Clean Architecture.
+
+**Tech**
+
+FastAPI • PostgreSQL • Docker • Redis • SQLAlchemy • Poetry
+
+**Features**
+
+- JWT Authentication
+- Clean Architecture
+- Async SQLAlchemy
+- Docker Compose
+- CI/CD with GitHub Actions
+- Infrastructure monitoring
+- Asset management
+- REST API
+- Enterprise-ready architecture
+
+---
+
 ### TicketFlow API
 
 Enterprise-ready REST API for IT ticket management built with **FastAPI**, **PostgreSQL**, **JWT** and **Docker**.
